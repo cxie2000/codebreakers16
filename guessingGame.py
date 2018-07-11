@@ -1,3 +1,31 @@
+##########################################
+# Guessing Game
+##########################################
+
+#Similar to the guessing game we played
+#write a function guessing_game(), 
+#it should run a loop that queries the user for inputs (guesses)
+#compares each guess to a pre-set number between 0 and 10000
+#and returns the new range
+#as long as the correct answer is not inputted
+#user is asked for guesses
+
+#Each guess should work to reduce the range
+
+
+#Hint: Break down the problem into smaller parts 
+#and think about how to solve each part individually before
+#thinking about combining them
+
+
+
+##########################################
+# Bonus Bonus
+##########################################
+
+#Make your function complain if the guess is less than 0 or greater than 10000
+
+
 #have a while loop that works when X is NOT Guess then checks if guess greater than 0 or greater than 100
 #if not then      
 import random
