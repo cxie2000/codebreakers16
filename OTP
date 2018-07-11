@@ -1,6 +1,6 @@
 # Name: chloe
 # Exercise: otp
-# Date:
+# Date: 7/26/16
 
 import os # we type this so that we can use a function called os.urandom(n)
 #NOTE: os.urandom(n) will produce n random bytes
